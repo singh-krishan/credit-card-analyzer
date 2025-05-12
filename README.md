@@ -1,6 +1,6 @@
 # Credit Card Transaction Analyzer
 
-A web application that allows users to upload their credit card transaction data in CSV format and view insightful analytics and visualizations.
+A LLM generated (cursor.ai) web application that allows users to upload their credit card transaction data in CSV format and view insightful analytics and visualizations.
 
 ## Features
 
